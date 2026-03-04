@@ -17,6 +17,7 @@ body {
   color: var(--text);
   font-family: 'Segoe UI', system-ui, sans-serif;
   line-height: 1.6;
+  justify-content: center;
 }
 
 .container {
@@ -207,3 +208,4 @@ footer {
   .profile-pic { max-width: 280px; margin: 0 auto; }
   .stats { gap: 2rem; }
 }
+
